@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/products",
+      "bodyPatterns": [
+        { "matchesJsonPath": "$[?(@.category == 'electronics')]" }
+      ]
+    },
+    "response": {
+      "proxyBaseUrl": "https://fakestoreapi.com/"
+    }
+  }
+  

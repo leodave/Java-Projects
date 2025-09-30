@@ -1,0 +1,1892 @@
+[
+  {
+    "type": "Unlocked",
+    "amount": 2010.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 2010.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 2010.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 2010.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 2010.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 2010.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 2010.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 2010.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1620.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1620.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1620.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1620.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1620.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1620.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1620.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1620.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1800.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1320.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1320.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1320.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1320.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1320.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1320.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1320.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1320.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1770.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1770.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1770.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1770.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1770.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1770.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1770.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1770.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1500.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1500.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1500.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1500.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1500.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1500.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1500.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1500.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1650.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1350.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1350.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1350.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1350.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1350.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1350.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1350.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1350.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1650.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1650.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1933.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1933.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1933.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1933.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1933.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1933.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1933.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1933.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1830.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1440.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1440.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1440.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1440.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1440.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1440.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1440.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1440.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1560.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1830.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1830.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 2040.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 2040.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 2040.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 2040.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 2040.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 2040.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 2040.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 2040.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1800.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1800.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1560.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1560.00,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 1260.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 1260.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 1260.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 1260.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 1260.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 1260.00,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 1260.00,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 1260.00,
+    "currency": "USD"
+  }
+]
+{
+  "createdAt": "2025-01-22T16:16:51.440Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:51.440Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "7d65f6fd-3188-4962-a64b-97c23f1eef42",
+  "accountNumber": "550873655969",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_014b874a-e5f6-43a2-a07e-2616ea581dbc@4null.com",
+  "phones": [
+    "6132370980"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "UVEBEuG9aOKY",
+  "lastName": "UVEBEuG9aOKY",
+  "birthdate": "1968-12-12T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "UVEBEuG9aOKY",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/7d65f6fd-3188-4962-a64b-97c23f1eef42"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:53.099Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:53.099Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "3604951b-edac-4b10-b3b4-111dcf73b5b2",
+  "accountNumber": "550425758641",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_f3af257a-edfe-4385-8056-650b94e8a9ed@4null.com",
+  "phones": [
+    "6134015563"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "JbWLbQuotK5F",
+  "lastName": "JbWLbQuotK5F",
+  "birthdate": "1989-12-14T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "JbWLbQuotK5F",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/3604951b-edac-4b10-b3b4-111dcf73b5b2"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:53.734Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:53.734Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "e3c4ee6f-27e1-4e33-ac3f-dced921263bd",
+  "accountNumber": "550353177148",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_fefc0510-25dd-49a8-80d1-3dcaa5df1e99@4null.com",
+  "phones": [
+    "6133922881"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "MTNLGK1vPkiZ",
+  "lastName": "MTNLGK1vPkiZ",
+  "birthdate": "1977-11-26T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "MTNLGK1vPkiZ",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/e3c4ee6f-27e1-4e33-ac3f-dced921263bd"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:54.331Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:54.331Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "96c5f2ce-9dc3-48c3-8969-5e5e911bb50d",
+  "accountNumber": "550971836743",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_c249699c-ac3b-4e60-8386-2ee7c951888d@4null.com",
+  "phones": [
+    "6135312157"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "yyhmdMSxiKKy",
+  "lastName": "yyhmdMSxiKKy",
+  "birthdate": "1978-01-02T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "yyhmdMSxiKKy",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/96c5f2ce-9dc3-48c3-8969-5e5e911bb50d"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:54.927Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:54.927Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "2154ff77-913f-462f-926d-9663ccc16a64",
+  "accountNumber": "550372696839",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_a9ebb604-822a-486b-ac1c-29ccf0431160@4null.com",
+  "phones": [
+    "6138077264"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "bwfYYL2ijmaD",
+  "lastName": "bwfYYL2ijmaD",
+  "birthdate": "1999-11-13T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "bwfYYL2ijmaD",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/2154ff77-913f-462f-926d-9663ccc16a64"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:55.645Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:55.645Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "6fb6de25-9584-41ee-9f5b-8dc69e35e95e",
+  "accountNumber": "550631814185",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_37e91153-641e-45ac-a080-72ea9b032297@4null.com",
+  "phones": [
+    "6138924408"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "LLsoC0syE2PD",
+  "lastName": "LLsoC0syE2PD",
+  "birthdate": "1996-11-01T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "LLsoC0syE2PD",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/6fb6de25-9584-41ee-9f5b-8dc69e35e95e"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:56.294Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:56.294Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "e1652690-d88f-4708-bcff-be62b8053a71",
+  "accountNumber": "550439045617",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_643ad720-dc35-4f43-8983-1e4f89cb6302@4null.com",
+  "phones": [
+    "6139642851"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "gxWZ3Y3oSI57",
+  "lastName": "gxWZ3Y3oSI57",
+  "birthdate": "1992-01-22T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "gxWZ3Y3oSI57",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/e1652690-d88f-4708-bcff-be62b8053a71"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:56.899Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:56.899Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "6d6fdcd9-b339-4399-9d80-9fe03f84eca8",
+  "accountNumber": "550662942537",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_9ccf1010-3a58-4ca5-88f4-f2f3cf5361cf@4null.com",
+  "phones": [
+    "6138826741"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "U60tAvx7DPlx",
+  "lastName": "U60tAvx7DPlx",
+  "birthdate": "1972-12-29T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "U60tAvx7DPlx",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/6d6fdcd9-b339-4399-9d80-9fe03f84eca8"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:57.499Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:57.499Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "d468fea5-c1a7-42c2-a177-e400202616e3",
+  "accountNumber": "550274900111",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_cedbda22-1031-4f11-bd76-035509e88228@4null.com",
+  "phones": [
+    "6139719985"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "HFTkyuOLVaz6",
+  "lastName": "HFTkyuOLVaz6",
+  "birthdate": "1986-12-18T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "HFTkyuOLVaz6",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/d468fea5-c1a7-42c2-a177-e400202616e3"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:58.107Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-02-18T16:48:53.674Z",
+  "updatedBy": "rnieto",
+  "version": 8,
+  "profileId": "3c12a84c-2bca-45cb-b729-ba1672ee54e4",
+  "accountNumber": "550851120598",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_4ad80ffb-6f31-4623-bd0d-5e952ef54e71@4null.com",
+  "phones": [
+    "6131318506"
+  ],
+  "address": {
+    "addressLine": "Beverly Hills, CA, 90210, US",
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "MYfcYnDEG9ED",
+  "lastName": "MYfcYnDEG9ED",
+  "birthdate": "1998-12-30T00:00:00Z",
+  "tags": [
+    "TEST",
+    "VIP"
+  ],
+  "hasPinCode": true,
+  "informalName": "MYfcYnDEG9ED",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/3c12a84c-2bca-45cb-b729-ba1672ee54e4"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:58.667Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:58.667Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "6ab48019-82b5-42ac-bf86-6b1e9b9b527b",
+  "accountNumber": "550416007114",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_b1774a8e-c763-47ec-aea8-ac0cfa182c9c@4null.com",
+  "phones": [
+    "6132154696"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "KzzWH9bkbdP2",
+  "lastName": "KzzWH9bkbdP2",
+  "birthdate": "1984-11-22T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "KzzWH9bkbdP2",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/6ab48019-82b5-42ac-bf86-6b1e9b9b527b"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:59.228Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:59.228Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "01479d69-7aa7-4d58-93da-159cca22f067",
+  "accountNumber": "550441336529",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_9ac59ee4-0c0a-4369-b234-f8f744fe4384@4null.com",
+  "phones": [
+    "6139337979"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "rwlLQCwpk4Ol",
+  "lastName": "rwlLQCwpk4Ol",
+  "birthdate": "2000-11-07T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "rwlLQCwpk4Ol",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/01479d69-7aa7-4d58-93da-159cca22f067"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:16:59.819Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:16:59.819Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "fde0168d-db77-49ed-a72e-f8a92d8c54a4",
+  "accountNumber": "550703882658",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_7747309f-4517-4236-9bb6-6fb487fafc48@4null.com",
+  "phones": [
+    "6135039408"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "s0hSkwAzQmmp",
+  "lastName": "s0hSkwAzQmmp",
+  "birthdate": "1992-11-16T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "s0hSkwAzQmmp",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/fde0168d-db77-49ed-a72e-f8a92d8c54a4"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:17:00.474Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:17:00.474Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "4d4c002f-e254-40c3-b31a-dee87fdc58ac",
+  "accountNumber": "550720511371",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_0803acef-79d3-4a34-b469-59fcc564cf83@4null.com",
+  "phones": [
+    "6138991927"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "7EZSxKVqqRBx",
+  "lastName": "7EZSxKVqqRBx",
+  "birthdate": "1990-11-05T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "7EZSxKVqqRBx",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/4d4c002f-e254-40c3-b31a-dee87fdc58ac"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:17:01.038Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:17:01.038Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "c3588e87-f08c-461e-a6df-98471107b6d7",
+  "accountNumber": "550951821885",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_52218109-b388-4a14-b86e-5c2002a19e5a@4null.com",
+  "phones": [
+    "6137921903"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "QXpE4KaGH230",
+  "lastName": "QXpE4KaGH230",
+  "birthdate": "1966-10-31T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "QXpE4KaGH230",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/c3588e87-f08c-461e-a6df-98471107b6d7"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:17:01.695Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:17:01.695Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "d6f9f03c-0852-4ab0-ad1e-5c485b2e5f05",
+  "accountNumber": "550536396426",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_5236221a-658d-4768-b806-722e11a4d1c9@4null.com",
+  "phones": [
+    "6136367260"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "HB5sAeqUVLlK",
+  "lastName": "HB5sAeqUVLlK",
+  "birthdate": "1987-11-20T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "HB5sAeqUVLlK",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/d6f9f03c-0852-4ab0-ad1e-5c485b2e5f05"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:17:02.322Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:17:02.322Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "9d84cdf2-7178-4180-b8c9-1282ebd30cd8",
+  "accountNumber": "550437740762",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_846a8073-3789-4486-9295-72faf6aa777f@4null.com",
+  "phones": [
+    "6139819923"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "H5Q7Z0SDkrC2",
+  "lastName": "H5Q7Z0SDkrC2",
+  "birthdate": "2003-12-29T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "H5Q7Z0SDkrC2",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/9d84cdf2-7178-4180-b8c9-1282ebd30cd8"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-22T16:17:02.969Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-22T16:17:02.969Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "01e0ae78-146b-4582-9337-2b8bcbced340",
+  "accountNumber": "550761520420",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BDG",
+  "email": "qaauto_b9210fe0-811e-4184-be46-1089385740d8@4null.com",
+  "phones": [
+    "6137776349"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "LATAM"
+  },
+  "firstName": "LatiNU3iq2cf",
+  "lastName": "LatiNU3iq2cf",
+  "birthdate": "1980-01-17T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "LatiNU3iq2cf",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/01e0ae78-146b-4582-9337-2b8bcbced340"
+    }
+  ]
+}

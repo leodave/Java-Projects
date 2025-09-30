@@ -1,0 +1,11 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/latency/fixed"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": { "msg": "Latency response 5s" },
+    "fixedDelayMilliseconds": 5000
+  }
+}

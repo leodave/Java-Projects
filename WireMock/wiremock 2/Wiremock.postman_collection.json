@@ -1,0 +1,491 @@
+{
+	"info": {
+		"_postman_id": "ca0c22ed-4d0c-4087-8733-d975e728843c",
+		"name": "Wiremock",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40995096"
+	},
+	"item": [
+		{
+			"name": "1. Basic mocking",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/basic",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"basic"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2. Static mocking",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/static",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"static"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3 PathParam condition (lttwdev)",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/lttwdev",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"lttwdev"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.1 PathParam condition (ltb)",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/ltb",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"ltb"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.2 PathParam dynamic",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/anything",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"anything"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4. Body conditions",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"usuario\": {\n    \"nombre\": \"Noel\",\n    \"edad\": 35\n  }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/body/condition",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"body",
+						"condition"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.1 Body dynamic",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"usuario\": {\n    \"nombre\": \"Juan\",\n    \"edad\": 33\n  }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/body",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"body"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5. Proxy",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/products",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.1 Proxy body condition",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"id\": 21,\n  \"title\": \"Mobile\",\n  \"price\": 1000,\n  \"description\": \"Iphone mobile\",\n  \"category\": \"electronics\",\n  \"image\": \"http://example.com\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/products",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.2 Proxy path dynamic",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/character/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"character",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.3 Proxy pattern rejex dynamic",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/character/?page=2&name=rick&status=alive",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"character",
+						""
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "2"
+						},
+						{
+							"key": "name",
+							"value": "rick"
+						},
+						{
+							"key": "status",
+							"value": "alive"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6. Headers and Auth",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "username",
+							"value": "user",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "secret",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-First",
+						"value": "abc",
+						"type": "text"
+					},
+					{
+						"key": "X-Second",
+						"value": "xyz",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/headers/auth",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"headers",
+						"auth"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6.1 Headers and Bearer",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "12345",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-First",
+						"value": "abc",
+						"type": "text"
+					},
+					{
+						"key": "X-Second",
+						"value": "xyz",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/headers/bearer",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"headers",
+						"bearer"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7. Latency fixed",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/latency/fixed",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"latency",
+						"fixed"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7.1 Latency random",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/latency/random",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"latency",
+						"random"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8. Regex match",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "search_term",
+						"value": "Stub",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/users/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8.1 Header proxy redirection priority 1 ",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "search_term",
+						"value": "id2",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/carts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"carts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

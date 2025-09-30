@@ -1,0 +1,10 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "/products"
+    },
+    "response": {
+      "proxyBaseUrl": "https://fakestoreapi.com/"
+    }
+  }
+  

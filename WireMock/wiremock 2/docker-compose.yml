@@ -1,0 +1,19 @@
+services:
+  mappings-generator:
+    image: alpine:3.19
+    volumes:
+      - ./mappings:/mappings
+      - ./ids.csv:/ids.csv
+      - ./generate_mapping.sh:/generate_mapping.sh
+    entrypoint: ["sh", "/generate_mapping.sh"]
+
+  wiremock:
+    image: wiremock/wiremock:3.13.0
+    ports:
+      - "8070:8080"
+    volumes:
+      - ./mappings:/home/wiremock/mappings
+      - ./__files:/home/wiremock/__files
+    command: ["--global-response-templating", "--enable-browser-proxying", "--verbose"]
+    depends_on:
+      - mappings-generator

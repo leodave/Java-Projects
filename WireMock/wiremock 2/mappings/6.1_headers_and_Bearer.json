@@ -1,0 +1,16 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "/headers/bearer",
+      "headers": {
+        "X-First": { "equalTo": "abc" },
+        "X-Second": { "equalTo": "xyz" },
+        "Authorization": { "equalTo": "Bearer 12345" }
+      }
+    },
+    "response": {
+      "status": 200,
+      "body": "¡Headers and Bearer successful!"
+    }
+  }
+  

@@ -1,0 +1,16 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "/latency/random"
+    },
+    "response": {
+      "status": 200,
+      "jsonBody": { "msg": "Latency response between 1 and 5s" },
+      "delayDistribution": {
+        "type": "uniform",
+        "lower": 1000,
+        "upper": 5000
+      }
+    }
+  }
+  

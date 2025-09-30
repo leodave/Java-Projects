@@ -1,0 +1,15 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "GET",
+    "urlPath": "/carts",
+    "headers": {
+      "search_term": { 
+          "matches": "^(id1|id2|id3|id4|id5|id6|id7|id8|id9|id10)$"
+      }
+    }
+  },
+  "response": {
+    "proxyBaseUrl": "https://fakestoreapi.com/"
+  }
+}

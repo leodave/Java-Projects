@@ -1,0 +1,16 @@
+{
+    "priority": 2,
+    "request": {
+      "method": "GET",
+      "urlPathTemplate": "/api/{env}",
+      "pathParameters": {
+        "env": {
+          "equalTo": "ltb"
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "jsonBody": { "msg": "Response from LTB" }
+    }
+  }

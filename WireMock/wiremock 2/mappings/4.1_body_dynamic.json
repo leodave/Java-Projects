@@ -1,0 +1,12 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/body"
+    },
+    "response": {
+      "status": 200,
+      "jsonBody": {
+        "msg": "Dynamic user {{jsonPath request.body '$.usuario.nombre'}} is {{jsonPath request.body '$.usuario.edad'}} years old"
+      }
+    }
+  }

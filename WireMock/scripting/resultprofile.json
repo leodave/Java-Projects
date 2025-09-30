@@ -1,0 +1,780 @@
+{
+  "createdAt": "2025-01-29T14:21:45.733Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-30T09:16:35.870Z",
+  "updatedBy": "Anonymous",
+  "version": 2,
+  "profileId": "3835fb09-cea7-4e37-ba4c-6b16c5fdba5c",
+  "accountNumber": "560424802917",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_a997a816-99d7-4d06-b84d-c8ffee8fd6db@4null.com",
+  "phones": [
+    "6135957022"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "3dkF2se8NuXv",
+  "lastName": "3dkF2se8NuXv",
+  "birthdate": "1969-01-25T00:00:00Z",
+  "tags": [
+    "FTD_LOCK",
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "3dkF2se8NuXv",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/3835fb09-cea7-4e37-ba4c-6b16c5fdba5c"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:46.360Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:46.360Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "097d447f-7a50-4f6e-b7ce-ce966fcf2d05",
+  "accountNumber": "560725556287",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_fe207e79-79b5-4564-89df-f0adbc646122@4null.com",
+  "phones": [
+    "6139120852"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "xEPvZpQTqG0R",
+  "lastName": "xEPvZpQTqG0R",
+  "birthdate": "1999-01-08T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "xEPvZpQTqG0R",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/097d447f-7a50-4f6e-b7ce-ce966fcf2d05"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:46.985Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:46.985Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "710402a1-3423-4010-8dff-4e9563f32da9",
+  "accountNumber": "560228054370",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_9445b8fe-2f79-461b-ae68-bd23690013e8@4null.com",
+  "phones": [
+    "6138573934"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "cr0X85AEbseb",
+  "lastName": "cr0X85AEbseb",
+  "birthdate": "2004-11-28T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "cr0X85AEbseb",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/710402a1-3423-4010-8dff-4e9563f32da9"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:47.592Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:47.592Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "db893b20-c268-4c5f-a807-83a1587e281d",
+  "accountNumber": "560127692935",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_9c8dcd4c-9102-44e1-9b04-9a11bfdad075@4null.com",
+  "phones": [
+    "6131757478"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "A7EIqbWAPVzY",
+  "lastName": "A7EIqbWAPVzY",
+  "birthdate": "1992-12-31T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "A7EIqbWAPVzY",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/db893b20-c268-4c5f-a807-83a1587e281d"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:48.165Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:48.165Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "53916ace-8494-4a9b-ac30-9414733fdc60",
+  "accountNumber": "560072891123",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_7eee2cb6-f35d-4a89-827f-4db0b52ee05b@4null.com",
+  "phones": [
+    "6132059727"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "E3f9Mj0OsLEI",
+  "lastName": "E3f9Mj0OsLEI",
+  "birthdate": "1977-12-21T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "E3f9Mj0OsLEI",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/53916ace-8494-4a9b-ac30-9414733fdc60"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:48.804Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:48.804Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "7f922438-6292-4089-b1c3-281c1d7b959f",
+  "accountNumber": "560011266588",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_791daa03-8b86-4a89-868f-76e9ebd259ef@4null.com",
+  "phones": [
+    "6138522952"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "NlwazhVshtPU",
+  "lastName": "NlwazhVshtPU",
+  "birthdate": "1985-12-13T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "NlwazhVshtPU",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/7f922438-6292-4089-b1c3-281c1d7b959f"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:49.407Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-30T09:39:44.142Z",
+  "updatedBy": "Anonymous",
+  "version": 2,
+  "profileId": "3ab30236-a6cb-46e3-9c03-e49017880f3b",
+  "accountNumber": "560863054005",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_24191c51-3f64-4174-b094-45afc2b22273@4null.com",
+  "phones": [
+    "6137030735"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "HIftiaTHiRBR",
+  "lastName": "HIftiaTHiRBR",
+  "birthdate": "2002-01-13T00:00:00Z",
+  "tags": [
+    "FTD_LOCK",
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "HIftiaTHiRBR",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/3ab30236-a6cb-46e3-9c03-e49017880f3b"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:49.986Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:49.986Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "21d2e03e-f5b8-4216-b481-80170399fc2f",
+  "accountNumber": "560565272354",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_e0dbdbdf-df92-4f5f-8175-dcfdbc684a38@4null.com",
+  "phones": [
+    "6139673517"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "IgvxyxYiAgpT",
+  "lastName": "IgvxyxYiAgpT",
+  "birthdate": "1993-11-14T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "IgvxyxYiAgpT",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/21d2e03e-f5b8-4216-b481-80170399fc2f"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:50.561Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-30T09:46:18.968Z",
+  "updatedBy": "Anonymous",
+  "version": 2,
+  "profileId": "5b4ba578-6045-4129-972b-e79dbffd341f",
+  "accountNumber": "560867769933",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_f8dfd21f-9e77-43b5-8a95-2567c91c369e@4null.com",
+  "phones": [
+    "6138009287"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "T6ucwpjEirE6",
+  "lastName": "T6ucwpjEirE6",
+  "birthdate": "1988-11-01T00:00:00Z",
+  "tags": [
+    "FTD_LOCK",
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "T6ucwpjEirE6",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/5b4ba578-6045-4129-972b-e79dbffd341f"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:51.142Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:51.142Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "7af7890c-9556-40f4-9b72-82aa03a3cf74",
+  "accountNumber": "560959057787",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_95a38d97-6200-420b-b7f5-def7dc6bcd04@4null.com",
+  "phones": [
+    "6137623534"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "P4GTLoluIb3T",
+  "lastName": "P4GTLoluIb3T",
+  "birthdate": "1980-12-08T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "P4GTLoluIb3T",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/7af7890c-9556-40f4-9b72-82aa03a3cf74"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:51.689Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-30T09:39:45.357Z",
+  "updatedBy": "Anonymous",
+  "version": 2,
+  "profileId": "d54a3a9a-0bfb-4092-aae1-db22ea50725a",
+  "accountNumber": "560675667272",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_b55d8399-be5b-4e99-8465-32fc4861b124@4null.com",
+  "phones": [
+    "6137029280"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "3lWuKMdmtfAi",
+  "lastName": "3lWuKMdmtfAi",
+  "birthdate": "1975-12-26T00:00:00Z",
+  "tags": [
+    "FTD_LOCK",
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "3lWuKMdmtfAi",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/d54a3a9a-0bfb-4092-aae1-db22ea50725a"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:52.265Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:52.265Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "8c7aaad0-2a49-453b-a699-752cc5a53423",
+  "accountNumber": "560946402547",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_e360f6c3-cd3f-43f1-8040-45e71fc8ac51@4null.com",
+  "phones": [
+    "6139198917"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "gmjJbq4Cy0es",
+  "lastName": "gmjJbq4Cy0es",
+  "birthdate": "1993-11-07T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "gmjJbq4Cy0es",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/8c7aaad0-2a49-453b-a699-752cc5a53423"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:52.848Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-02-05T12:31:46.621Z",
+  "updatedBy": "Anonymous",
+  "version": 2,
+  "profileId": "64df8e72-3cd0-4a50-8808-cf0bef1110ff",
+  "accountNumber": "560491480065",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_f647840e-13db-4536-8167-a78adb420465@4null.com",
+  "phones": [
+    "6138765283"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "BNpFH49oSB3o",
+  "lastName": "BNpFH49oSB3o",
+  "birthdate": "1971-01-17T00:00:00Z",
+  "tags": [
+    "FTD_LOCK",
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "BNpFH49oSB3o",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/64df8e72-3cd0-4a50-8808-cf0bef1110ff"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:53.401Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:53.401Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "78ac3758-8097-4c94-bc6f-f2fa8f29a239",
+  "accountNumber": "560702006707",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_dd866980-9689-481b-804b-e53c472b04a7@4null.com",
+  "phones": [
+    "6138398773"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "8xFRhFWqBgrx",
+  "lastName": "8xFRhFWqBgrx",
+  "birthdate": "1968-12-02T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "8xFRhFWqBgrx",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/78ac3758-8097-4c94-bc6f-f2fa8f29a239"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:54.008Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-30T09:20:47.515Z",
+  "updatedBy": "Anonymous",
+  "version": 2,
+  "profileId": "c17a5ff5-7d2e-4098-a188-685571674d1e",
+  "accountNumber": "560073050467",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_046d45ab-5350-435f-8a36-249b70c3cf6e@4null.com",
+  "phones": [
+    "6137338896"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "zZHPy64jGvct",
+  "lastName": "zZHPy64jGvct",
+  "birthdate": "1982-01-22T00:00:00Z",
+  "tags": [
+    "FTD_LOCK",
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "zZHPy64jGvct",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/c17a5ff5-7d2e-4098-a188-685571674d1e"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:54.586Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:54.586Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "cf7df54e-5c75-4478-b09d-f7315c1c19bf",
+  "accountNumber": "560294385122",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_4ddd831e-4694-4c0c-a13f-ac995c64ff95@4null.com",
+  "phones": [
+    "6131153446"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "TPJ3vD0yplAK",
+  "lastName": "TPJ3vD0yplAK",
+  "birthdate": "2002-01-01T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "TPJ3vD0yplAK",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/cf7df54e-5c75-4478-b09d-f7315c1c19bf"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:55.245Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:55.245Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "92a82b51-55fe-4481-97f5-357cba00e147",
+  "accountNumber": "560738391472",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_8296414b-9c84-4ffb-99a3-2438c14fc758@4null.com",
+  "phones": [
+    "6135576903"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "znEBs4YUeY9Q",
+  "lastName": "znEBs4YUeY9Q",
+  "birthdate": "1986-12-07T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "znEBs4YUeY9Q",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/92a82b51-55fe-4481-97f5-357cba00e147"
+    }
+  ]
+}
+{
+  "createdAt": "2025-01-29T14:21:55.878Z",
+  "createdBy": "Anonymous",
+  "updatedAt": "2025-01-29T14:21:55.878Z",
+  "updatedBy": "Anonymous",
+  "version": 1,
+  "profileId": "66abd400-0d4e-4ddf-b4e1-34acc586fe13",
+  "accountNumber": "560595048872",
+  "profileType": "PLAYER",
+  "status": "ACTIVE",
+  "brandCode": "BVD",
+  "email": "qaauto_c4591aef-6a8e-4214-9607-0c905330d349@4null.com",
+  "phones": [
+    "6139816853"
+  ],
+  "address": {
+    "postalCode": "90210",
+    "city": "Beverly Hills",
+    "subdivision": "CA",
+    "countryCode": "US"
+  },
+  "attributes": {
+    "currency": "USD",
+    "language": "en",
+    "pin_code": "1254",
+    "signup_ip": "10.112.195.203",
+    "territory": "DEFAULT"
+  },
+  "firstName": "sUQXF2cnw9tB",
+  "lastName": "sUQXF2cnw9tB",
+  "birthdate": "1991-12-11T00:00:00Z",
+  "tags": [
+    "TEST"
+  ],
+  "hasPinCode": true,
+  "informalName": "sUQXF2cnw9tB",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://beatrix-internal-api-gateway-service.dldx.internal/api/v1/profiles/66abd400-0d4e-4ddf-b4e1-34acc586fe13"
+    }
+  ]
+}

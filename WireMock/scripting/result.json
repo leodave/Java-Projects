@@ -1,0 +1,1116 @@
+[
+  {
+    "type": "Unlocked",
+    "amount": 181.75,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 181.75,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 181.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 181.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 181.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 181.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 181.75,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 181.75,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 392.45,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 392.45,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 392.45,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 392.45,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 392.45,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 392.45,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 392.45,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 392.45,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 152.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 152.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 152.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 152.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 152.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 152.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 152.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 152.80,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 244.20,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 303.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 303.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 303.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 303.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 303.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 303.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 303.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 303.15,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 153.50,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 123.85,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 153.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 153.50,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 212.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 212.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 212.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 212.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 212.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 212.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 212.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 212.80,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 123.85,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 123.85,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 274.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 274.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 274.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 274.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 274.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 274.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 274.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 274.20,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 271.75,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 271.75,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 271.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 271.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 271.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 271.75,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 271.75,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 271.75,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 93.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 93.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 93.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 93.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 93.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 93.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 93.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 93.15,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 215.25,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 215.25,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 215.25,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 215.25,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 215.25,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 215.25,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 215.25,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 215.25,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 302.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 302.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 302.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 302.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 302.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 302.80,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 302.80,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 302.80,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 244.20,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 244.20,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 213.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 213.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 213.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 213.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 213.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 213.50,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 213.50,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 213.50,
+    "currency": "USD"
+  }
+]
+[
+  {
+    "type": "Unlocked",
+    "amount": 183.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Locked",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Bonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "NonPlayableBonus",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "PendingWithdrawal",
+    "amount": 0,
+    "currency": "USD"
+  },
+  {
+    "type": "Withdrawable",
+    "amount": 183.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Playable",
+    "amount": 183.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableCasino",
+    "amount": 183.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayablePoker",
+    "amount": 183.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableSports",
+    "amount": 183.15,
+    "currency": "USD"
+  },
+  {
+    "type": "PlayableHorses",
+    "amount": 183.15,
+    "currency": "USD"
+  },
+  {
+    "type": "Total",
+    "amount": 183.15,
+    "currency": "USD"
+  }
+]

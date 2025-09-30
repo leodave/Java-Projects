@@ -1,0 +1,16 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "GET",
+    "urlPath": "/carts"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "static-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+  
+  

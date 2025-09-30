@@ -1,0 +1,14 @@
+{
+    "priority": 3,
+    "request": {
+      "method": "GET",
+      "urlPathTemplate": "/api/{path}/{id}"
+    },
+    "response": {
+      "proxyBaseUrl": "https://rickandmortyapi.com/",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "transformers": ["response-template"]
+    }
+  }

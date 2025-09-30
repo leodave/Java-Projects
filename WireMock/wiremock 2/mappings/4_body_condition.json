@@ -1,0 +1,14 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/body/condition",
+      "bodyPatterns": [
+        { "matchesJsonPath": "$[?(@.usuario.nombre == 'Noel')]" },
+        { "matchesJsonPath": "$[?(@.usuario.edad == '35')]" }
+      ]
+    },
+    "response": {
+      "status": 200,
+      "jsonBody": { "msg": "User with conditions Noel is 35 years old" }
+    }
+  }

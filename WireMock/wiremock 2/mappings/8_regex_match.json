@@ -1,0 +1,14 @@
+{
+    "request": {
+      "method": "GET",
+      "urlPathTemplate": "/users/{id}",
+      "headers": {
+        "search_term": { 
+            "matches": "^(WireMock|Stub|Mock)$"
+        }
+      }
+    },
+    "response": {
+        "proxyBaseUrl": "https://fakestoreapi.com/"
+      }
+  }
